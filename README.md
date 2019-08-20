@@ -18,7 +18,7 @@ You may also just directly download from GitHub.
 Next step is to navigate to the parent folder of the project (now on your local computer), then run the server.
 To run the server, in your terminal type:
 
-php server.php 
+    php server.php 
 
 Make sure that PHP is installed and included in your environment variable path, else the command 'php' would not be recognized.
 
