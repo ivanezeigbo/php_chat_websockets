@@ -28,3 +28,5 @@ The chat application would not work if the server is not running yet.
 
 You may decide to include a database to save messages. Eloquent in Laravel (PHP framework) can be used to connect to your database. This can now be easily implemented. 
 Also, you could make direct insertions into your table right from the 'ChatApp.php' file in 'src' if you want. A database feature allows you to retrieve chat history and make use of actual usernames.
+
+<img src="chat_image.jpg">
