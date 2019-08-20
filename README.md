@@ -1,4 +1,4 @@
-# php_chat_websockets
+# PHP Chat Websockets (Real Time Chat)
 PHP Chat Application (With jQuery, Bootstrap, Ratchet, WebSockets)
 
 ## Overview
