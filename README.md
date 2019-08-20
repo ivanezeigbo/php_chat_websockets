@@ -9,7 +9,9 @@ The program is written in PHP and is easy to follow and replicate.
 
 ### 1. Clone the git repository 
 Copy the git remote link of the project and on your terminal type:
+
     git clone <link>
+    
 You may also just directly download from GitHub.
 
 ### 2. Run the server
