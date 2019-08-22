@@ -32,3 +32,5 @@ You may decide to include a database to save messages. Eloquent in Laravel (PHP 
 Also, you could make direct insertions into your table right from the 'ChatApp.php' file in 'src' if you want. A database feature allows you to retrieve chat history and make use of actual usernames.
 
 <img src="chat_image.jpg">
+
+<img src="websockets.gif">
