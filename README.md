@@ -33,4 +33,4 @@ Also, you could make direct insertions into your table right from the 'ChatApp.p
 
 <img src="chat_image.jpg">
 
-<img src="websockets.gif">
+<img src="websocket.gif">
